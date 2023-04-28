@@ -23,6 +23,7 @@ Add your timetable using td tag.
 Execute the program using runserver command.
 
 ## CODE
+```
 <html>
      <head>
               <title> ex3 </title>
@@ -122,7 +123,7 @@ Execute the program using runserver command.
               
         </body>
 </html>
-
+```
 ## OUTPUT
 ![OUTPUT](./out5.png)
 
